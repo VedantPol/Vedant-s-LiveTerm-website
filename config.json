@@ -1,39 +1,51 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Vedant Pol's Website",
+  "name": "Vedant Pol",
+  "ascii": "cveinnt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "VedantPol",
+    "linkedin": "vedant-pol-30987b20a"
   },
-  "email": "contact@email.com",
+  "donate_urls": {
+    "paypal": "",
+    "patreon": ""},
+  "email": "polvedant7@email.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
   "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "resume_url": "https://drive.google.com/file/d/1Qnzr8pxoQuGZtbGcQXUfU6cdGxNRJyfZ/view?usp=sharing",
+
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#161130",
+        "foreground": "#00FFCA",
+        "yellow": "#ffd400",
+        "green": "#A3BE8C",
+        "gray": "#88C0D0",
+        "blue": "#009FBD",
+        "red": "#e61f44",
+        "pink": "#b43fd4",
+        "reddish-pink": "#d1135f",
+        "orange": "#e0762f",
+        "white": "#FF6D60",
+        "light-yellow": "#F9E2AF",
+        "purple": "#77037B"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#161130",
+        "foreground": "#37306B",
+        "yellow": "#ffd400",
+        "green": "#A3BE8C",
+        "gray": "#88C0D0",
+        "blue": "#009FBD",
+        "red": "#e61f44",
+        "pink": "#f02afc",
+        "reddish-pink": "#e01969",
+        "orange": "#da9b50",
+        "lblue": "#38c6de",
+        "dpurple": "#261847",
+        "white": "#efefef"
     }
   }
 }
