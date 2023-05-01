@@ -1,20 +1,21 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://github.com/VedantPol/Vedant-s-LiveTerm-website/blob/main/README.md",
   "title": "Vedant Pol's Website",
   "name": "Vedant Pol",
-  "ascii": "cveinnt",
+  "ascii": "sumfethc",
   "social": {
     "github": "VedantPol",
-    "linkedin": "vedant-pol-30987b20a"
+    "linkedin": "vedant-pol-30987b20a",
+    "twitter": "wingman_pol"
   },
+  "email": "polvedant7@email.com",
+  "ps1_hostname": "welcome",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/VedantPol/Vedant-s-LiveTerm-website",
+  "resume_url": "https://drive.google.com/file/d/1Qnzr8pxoQuGZtbGcQXUfU6cdGxNRJyfZ/view?usp=sharing",
   "donate_urls": {
     "paypal": "",
     "patreon": ""},
-  "email": "polvedant7@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://drive.google.com/file/d/1Qnzr8pxoQuGZtbGcQXUfU6cdGxNRJyfZ/view?usp=sharing",
 
   "colors": {
     "light": {
