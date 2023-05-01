@@ -228,6 +228,6 @@ export const banner = (args?: string[]): string => {
 
 Type 'help' to see the list of available commands.
 Type 'summary' to display summary.
-Type 'about' for a short bio.
+Type 'about' to view a brief description of the website.
 `;
 };
