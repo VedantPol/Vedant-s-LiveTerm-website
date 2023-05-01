@@ -50,8 +50,7 @@ platform for showcasing my skills and expressing my passion for Linux.
 
 More about me:
 'summary' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+'resume' - my latest resume.`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
