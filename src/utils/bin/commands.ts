@@ -145,28 +145,28 @@ export const whoami = async (args: string[]): Promise<string> => {
 export const cat = async (args?: string[]): Promise<string> => {
   return `meow`;
 };
-// export const neofetch = async (args?: string[]): Promise<string> => {
-//   const str= `_______                                       
-//                    -`                    albedo@Arch 
-//                   .o+`                   ----------- 
-//                  `ooo/                   OS: Arch Linux x86_64 
-//                 `+oooo:                  Host: 81LK IdeaPad L340-15IRH Gaming 
-//                `+oooooo:                 Kernel: 6.2.13-arch1-1 
-//                -+oooooo+:                Uptime: 7 hours, 38 mins 
-//              `/:-:++oooo+:               Packages: 908 (pacman), 7 (flatpak), 10 (snap) 
-//             `/++++/+++++++:              Shell: bash 5.1.16 
-//            `/++++++++++++++:             Resolution: 1920x1080, 1366x768 
-//           `/+++ooooooooooooo/`           WM: i3                                                          
-//          ./ooosssso++osssssso+`          Theme: Adwaita [GTK2/3] 
-//         .oossssso-````/ossssss+`         Icons: Adwaita [GTK2/3]                                              
-//        -osssssso.      :ssssssso.        Terminal: cool-retro-term                                            
-//       :osssssss/        osssso+++.       CPU: Intel i5-9300H (8) @ 4.100GHz                                   
-//      /ossssssss/        +ssssooo/-       GPU: NVIDIA GeForce GTX 1050 3 GB Max-Q                              
-//    `/ossssso+/:-        -:/+osssso+-     GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630]                       
-//   `+sso+:-`                 `.-/+oso:    Memory: 8377MiB / 15751MiB                                           
-//  `++:.                           `-/+/     `;
-//               return str;
-// };
+export const neofetch = async (args?: string[]): Promise<string> => {
+  const str= `
+          ##                       albedo@Arch 
+          ##         #########     ----------- 
+                    ####      ##   OS: Arch Linux x86_64 
+            ####  ####        ##   Host: 81LK IdeaPad L340-15IRH Gaming 
+####        ####  ##        ##     Kernel: 6.2.13-arch1-1 
+        ####    ####      ##  ##   Uptime: 55 mins 
+        ####  ####  ##  ##  ##     Packages: 926 (pacman), 7 (flatpak), 10 (snap) 
+            ####  ######           Shell: bash 5.1.16 
+        ######  ##  ##  ####       Resolution: 1920x1080 
+      ####    ################     WM: i3 
+    ####        ##  ####           Theme: Adwaita [GTK2/3] 
+    ##            ####  ######     Icons: Adwaita [GTK2/3] 
+    ##      ##    ####  ####       Terminal: cool-retro-term 
+    ##    ##  ##    ##  ##  ####   CPU: Intel i5-9300H (8) @ 2.400GHz 
+      ####  ##          ##  ##     GPU: NVIDIA GeForce GTX 1050 3 GB Max-Q 
+                                   GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
+                                   Memory: 6754MiB / 15751MiB 
+`;
+              return str;
+};
 export const ls = async (args: string[]): Promise<string> => {
   return `A list of few of my Projects 
 
