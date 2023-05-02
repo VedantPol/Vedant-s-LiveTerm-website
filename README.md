@@ -15,87 +15,92 @@ There are a bunch of commands avalible in the website feel free to try them all 
 
 list of all the avalible commands and their functions-
 
-### about
+#### about
 * A breif intor about the website
 
-### banner
+#### banner
 * prints the initial banner of the website
-### bing
+#### bing
 * You can use it to search on bing . 
 Syntax Example:
  bing [thing to search]
-### cat
+#### cat
 * meow
-### cd
+#### cd
 * shows avalible directories
-### date
+#### date
 * prints the date
-### duckduckgo
+#### duckduckgo
 * You can use it to search on duckduckgo . 
 Syntax Example:
  duckduckgo [thing to search]
-### echo
+#### echo
 * linux echo command
-### emacs
+#### emacs
 * if your an emacs user
-### email
+#### email
 * Opens your email client 
-### github
+#### github
 * Opens my github account
-### google
+#### google
 * You can use it to search on google . 
 Syntax Example:
  google [thing to search]
-### help
+#### help
 * Prints a list of avalible commands
-### linkedin
+#### linkedin
 * Opens my linkedin 
-### ls
+#### ls
 * showcases few of my projects
 
-### nvim
+#### nvim
 * if you are an nvim user
 
-### quote
+#### quote
 * prints a quote of the day
 
-### radio
+#### radio
 * plays a song
 
-### radioremove
+#### radioremove
 * removes radio element
 
-### radiostop
+#### radiostop
 * stops the playing song
 
-### reddit
+#### reddit
 * You can use it to search on reddit . 
 Syntax Example:
  reddit [thing to search]
  
-### repo
+#### repo
 * opens the github repo of the website
 
-### resume
+#### resume
 * opens my resume
 
-### sudo
+#### sudo
 * get rickrolled
 
-### summary
+#### summary
 * link to all my socials and resume
 
-### vi
+#### vi
 * if your a vi user 
 
-### vim
+#### vim
 * if you are vim user
 
-### weather
+#### weather
 * prints the weather of a city
 syntax example :
 weather [city]
 weather mumbai
 
-### whoami
+#### whoami
 * who am i
+
+
+## Credit
+
+Based on M4TT72's awesome [Terminal](https://github.com/m4tt72/terminal) adn Cveinnt's [LiveTerm](https://github.com/Cveinnt/LiveTerm).
