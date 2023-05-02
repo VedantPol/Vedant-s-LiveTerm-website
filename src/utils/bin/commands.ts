@@ -6,6 +6,7 @@ const songs = [
   { name: 'Fed Up', file:'music.mp3' },
   { name: 'Aaja', file:'music3.mp3' },
   { name: 'Rip & Tear', file:'music2.mp3' },
+  {name: 'Until I found you', file:'music4.mp3'}
 
   // add more songs here
 ];
