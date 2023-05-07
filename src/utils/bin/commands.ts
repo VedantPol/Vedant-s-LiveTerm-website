@@ -47,7 +47,7 @@ and helping others in the community. I believe that by working together, develop
 that is more reliable, secure, and innovative.
 
 Thus I developed a portfolio website designed to resemble a Linux terminal, which serves as a 
-platform for showcasing my skills and expressing my passion for Linux.
+platform for showcasing my skills and expressing my passion for Linux and open source.
 
 More about me:
 'summary' - short summary.
