@@ -15,90 +15,46 @@ There are a bunch of commands avalible in the website feel free to try them all 
 
 list of all the avalible commands and their functions-
 
-#### about
-* A breif intor about the website
-
-#### banner
-* prints the initial banner of the website
-#### bing
-* You can use it to search on bing . 
+* **about** :
+A breif intor about the website
+* **banner** :
+prints the initial banner of the website
+* **bing** :
+You can use it to search on bing . 
 Syntax Example:
  bing [thing to search]
-#### cat
-* meow
-#### cd
-* shows avalible directories
-#### date
-* prints the date
-#### duckduckgo
-* You can use it to search on duckduckgo . 
-Syntax Example:
- duckduckgo [thing to search]
-#### echo
-* linux echo command
-#### emacs
-* if your an emacs user
-#### email
-* Opens your email client 
-#### github
-* Opens my github account
-#### google
-* You can use it to search on google . 
-Syntax Example:
- google [thing to search]
-#### help
-* Prints a list of avalible commands
-#### linkedin
-* Opens my linkedin 
-#### ls
-* showcases few of my projects
+* **cat** : meow
+* **cd** : shows available directories
+* **date** : prints the date
+* **duckduckgo** : You can use it to search on DuckDuckGo. 
+  Syntax Example: `duckduckgo [thing to search]`
+* **echo** : Linux echo command
+* **emacs** : if you're an Emacs user
+* **email** : Opens your email client 
+* **github** : Opens my GitHub account
+* **google** : You can use it to search on Google. 
+  Syntax Example: `google [thing to search]`
+* **help** : Prints a list of available commands
+* **linkedin** : Opens my LinkedIn 
+* **ls** : showcases few of my projects
+* **nvim** : if you are an Nvim user
+* **quote** : prints a quote of the day
+* **radio** : plays a song
+* **radioremove** : removes radio element
+* **radiostop** : stops the playing song
+* **reddit** : You can use it to search on Reddit. 
+  Syntax Example: `reddit [thing to search]`
+* **repo** : opens the GitHub repo of the website
+* **resume** : opens my resume
+* **sudo** : get rickrolled
+* **summary** : link to all my socials and resume
+* **vi** : if you're a vi user 
+* **vim** : if you are a Vim user
+* **weather** : prints the weather of a city
+  syntax example: `weather [city]`
+  example usage: `weather Mumbai`
+* **whoami** : who am I
 
-#### nvim
-* if you are an nvim user
-
-#### quote
-* prints a quote of the day
-
-#### radio
-* plays a song
-
-#### radioremove
-* removes radio element
-
-#### radiostop
-* stops the playing song
-
-#### reddit
-* You can use it to search on reddit . 
-Syntax Example:
- reddit [thing to search]
- 
-#### repo
-* opens the github repo of the website
-
-#### resume
-* opens my resume
-
-#### sudo
-* get rickrolled
-
-#### summary
-* link to all my socials and resume
-
-#### vi
-* if your a vi user 
-
-#### vim
-* if you are vim user
-
-#### weather
-* prints the weather of a city
-syntax example :
-weather [city]
-weather mumbai
-
-#### whoami
-* who am i
 
 
 ## Credit
