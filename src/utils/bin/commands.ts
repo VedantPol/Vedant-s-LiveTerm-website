@@ -3,10 +3,10 @@
 import * as bin from './index';
 import config from '../../../config.json';
 const songs = [
-  { name: 'Fed Up', file:'music.mp3' },
-  { name: 'Aaja', file:'music3.mp3' },
-  { name: 'Rip & Tear', file:'music2.mp3' },
-  {name: 'Until I found you', file:'music4.mp3'}
+  { name: 'Fed Up by Bazanji ', file:'music.mp3' },
+  { name: 'Aaja by Nucleya ', file:'music3.mp3' },
+  { name: 'Rip & Tear by Mick Gordon ', file:'music2.mp3' },
+  {name: 'Until I found you by Stephen Sanchez ', file:'music4.mp3'}
 
   // add more songs here
 ];
@@ -106,7 +106,7 @@ export const radio = async (args: string[]): Promise<string> => {
  const song = songs[randomIndex];
  audio = new Audio(song.file);
  audio.play();
- return `Now playing: ${song.name} please do not write radio two times its breaking the music`;
+ return `Now playing: ${song.name} ... (please do not write radio two times its breaking the music) \n use command radiostop to stop the music`;
 };
 
 export const radiostop = async (args: string[]): Promise<string> => {
@@ -174,7 +174,7 @@ export const ls = async (args: string[]): Promise<string> => {
                         It currently has over 2000+ montly downloads with 100+ weekly active users.
                         <u><a class="text-light-blue dark:text-dark-blue underline" href="https://github.com/xwiki-contrib/packaging-snap" target="_blank">Github Repo</a></u>
 
-  -> TCET-Liux -        A arch based linux operating system created from scratch for Thakur College 
+  -> TCET-Linux -        A arch based linux operating system created from scratch for Thakur College 
                         of Engineering and Technology computer science department. 
                         <u><a class="text-light-blue dark:text-dark-blue underline" href="https://github.com/VedantPol/tcet-linux/tree/main" target="_blank">Github Repo</a></u>
 
